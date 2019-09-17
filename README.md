@@ -16,7 +16,7 @@ All processes must happen in Classes, not in the main method of a Main class.
 <hr/>
 <em><b>Sample Output:</em><b/>
   
-```java
+```console
 Welcome to the Brookley's Better Bakery App! 
 We contain peanut, gluten, soy and dairy in our products. 
 
