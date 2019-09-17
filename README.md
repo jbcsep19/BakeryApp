@@ -1,8 +1,7 @@
 # BakeryApp
 
 
-
-Your favorite bakery needs to create a database of its fresh goods!
+## Your favorite bakery needs to create a database of its fresh goods!
 
 You're in a team of 2.
 
@@ -15,10 +14,12 @@ For a list of example products, see https://sensitivesweets.com/collections/brea
 All processes must happen in Classes, not in the main method of a Main class.
 
 <hr/>
-<em>Sample Output:</em><br/>
-<code>
-Welcome to the Brookley's Better Bakery App!
-We contain peanut, gluten, soy and dairy in our products.
-To search for foods that you can eat, please enter the name of the diet restriction:
+<em><b>Sample Output:</em><b/>
+  
+```java
+Welcome to the Brookley's Better Bakery App! 
+We contain peanut, gluten, soy and dairy in our products. 
+
+To search for foods that you can eat, please enter the name of the diet restriction: 
 To see a list of all our foods, please type "all".
-</code>
+```
